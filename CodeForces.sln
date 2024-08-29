@@ -5,6 +5,8 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A.Watermelon", "A.Watermelon\A.Watermelon.vcxproj", "{07A8362D-8DD2-4CD6-A708-83F88CC87A3F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "A.WayTooLongWords", "A.WayTooLongWords\A.WayTooLongWords.vcxproj", "{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{07A8362D-8DD2-4CD6-A708-83F88CC87A3F}.Release|x64.Build.0 = Release|x64
 		{07A8362D-8DD2-4CD6-A708-83F88CC87A3F}.Release|x86.ActiveCfg = Release|Win32
 		{07A8362D-8DD2-4CD6-A708-83F88CC87A3F}.Release|x86.Build.0 = Release|Win32
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Debug|x64.ActiveCfg = Debug|x64
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Debug|x64.Build.0 = Debug|x64
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Debug|x86.Build.0 = Debug|Win32
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Release|x64.ActiveCfg = Release|x64
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Release|x64.Build.0 = Release|x64
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Release|x86.ActiveCfg = Release|Win32
+		{B842CE4A-3C78-4728-8C91-A2B54BFBB3FF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
